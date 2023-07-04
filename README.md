@@ -58,16 +58,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [There is no live demo for this project]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -100,8 +90,6 @@ git clone https://github.com/Chimoneg27/Helllo-Microverse-new.git
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@Chimoneg27](https://github.com/Chimoneg27)
@@ -115,9 +103,9 @@ git clone https://github.com/Chimoneg27/Helllo-Microverse-new.git
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Only the Hello Microverse heading]**
+- [ ] **[Add more semantic tags]**
+- [ ] **[Add informaton regarding my experience at microverse]**
+- [ ] **[Add some images to make it more eye catching]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +140,5 @@ I would like to thanks to the program for allowing me to try again. I will not d
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
